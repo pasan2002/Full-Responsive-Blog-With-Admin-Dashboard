@@ -48,6 +48,7 @@ To run this project, you will need to add the following environment variables to
 
 
 3. Now You have to add your own information to the relevant parts.
+   
 ` Add your social media links to Footer file `
 
 ` Add your web3forms access key to Contact file`
